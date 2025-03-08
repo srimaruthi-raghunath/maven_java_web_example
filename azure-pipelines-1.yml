@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: ubuntu-latest
+  name: DESKTOP-VCASM82
 
 steps:
 - task: Maven@3
