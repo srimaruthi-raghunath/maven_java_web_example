@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: ubuntu-latest
+  name: DESKTOP-VCASM82
 
 steps:
 - script: echo Hello, world!
